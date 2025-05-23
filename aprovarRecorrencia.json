@@ -1,0 +1,61 @@
+// requisição
+
+{
+  "recebedor": {
+    "cnpj": "71128705000160",
+    "nome": "Academia Fitness Ltda"
+  },
+  "devedor": {
+    "cpf": "12345678900",
+    "nome": "Maria Silva"
+  },
+  "valor": {
+    "original": "129.90",
+    "valorMaximo": "129.90"
+  },
+  "chave": "71128705000160",
+  "calendario": {
+    "dataInicial": "2025-06-01",
+    "dataFinal": "2026-05-31",
+    "periodicidade": "MENSAL"
+  },
+  "idRec": "rec123456789",
+  "contaRecebimento": {
+    "tipo": "CACC",
+    "instituicao": "00000000",
+    "agencia": "0001",
+    "numero": "123456789"
+  }
+}
+// resposta
+
+{
+  "id": "solic987654321",
+  "status": "CRIADA",
+  "criacao": "2025-05-22T14:45:00Z",
+  "recebedor": {
+    "cnpj": "71128705000160",
+    "nome": "Academia Fitness Ltda"
+  },
+  "devedor": {
+    "cpf": "12345678900",
+    "nome": "Maria Silva"
+  },
+  "valor": {
+    "original": "129.90",
+    "valorMaximo": "129.90"
+  },
+  "chave": "71128705000160",
+  "calendario": {
+    "dataInicial": "2025-06-01",
+    "dataFinal": "2026-05-31",
+    "periodicidade": "MENSAL"
+  },
+  "idRec": "rec123456789",
+  "contaRecebimento": {
+    "tipo": "CACC",
+    "instituicao": "00000000",
+    "agencia": "0001",
+    "numero": "123456789"
+  }
+}
