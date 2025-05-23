@@ -1,0 +1,48 @@
+{
+  "calendario": {
+    "dataInicial": "2025-06-01",
+    "dataFinal": "2026-05-31",
+    "periodicidade": "MENSAL",
+    "criacao": "2025-05-22T10:30:00Z"
+  },
+  "status": "CRIADA",
+  "valor": {
+    "original": "99.90",
+    "valorMinimo": "99.90",
+    "valorMaximo": "99.90"
+  },
+  "chave": "71128705000160",
+  "solicitacaoPagador": "Academia Fitness - Plano Anual",
+  "infoAdicionais": [
+    {
+      "nome": "Plano",
+      "valor": "Premium"
+    },
+    {
+      "nome": "Cliente",
+      "valor": "Maria Silva"
+    }
+  ],
+  "devedor": {
+    "cpf": "12345678900",
+    "nome": "Maria Silva"
+  },
+  "recebedor": {
+    "cnpj": "71128705000160",
+    "nome": "Academia Fitness Ltda",
+    "cidade": "São Paulo",
+    "uf": "SP"
+  },
+  "politicaRetentativa": {
+    "numeroTentativas": 3,
+    "intervaloEmDias": 2
+  },
+  "loc": {
+    "id": 789456,
+    "location": "pix.example.com/rec/v2/123456789",
+    "tipoCob": "rec",
+    "criacao": "2025-05-22T10:30:00Z"
+  },
+  "recUrlAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+  "idRec": "rec123456789"
+}
