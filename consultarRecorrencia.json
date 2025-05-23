@@ -1,8 +1,8 @@
-chamda:
+// chamda:
 
-GET /rec/rec123456789
+// GET /rec/rec123456789
 
-retorno:
+// retorno:
 
 {
   "calendario": {
