@@ -1,0 +1,21 @@
+{
+  "idSolicitacao": "solic_cancel_001",
+  "idRecorrencia": "rec123456789",
+  "cpfCliente": "12345678900",
+  "nomeCliente": "Maria Silva",
+  "tipoSolicitacao": "CANCELAMENTO", // ou "ALTERACAO"
+  "statusSolicitacao": "PENDENTE",   // ou "PROCESSADA", "CANCELADA"
+  "dataSolicitacao": "2025-06-20T08:15:00Z",
+  "canalOrigem": "app_cliente",      // exemplo: "dashboard_ec", "suporte", "app_cliente"
+  "motivo": "Cliente solicitou o cancelamento pelo app",
+  "alteracoesSolicitadas": {
+    "novoValor": "109.90",
+    "novaPeriodicidade": "MENSAL",
+    "novaDataFinal": "2026-12-31"
+  },
+  "respostaEC": {
+    "decisao": null,
+    "dataResposta": null,
+    "observacao": null
+  }
+}
