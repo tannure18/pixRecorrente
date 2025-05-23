@@ -1,0 +1,41 @@
+// Requisição – POST /cobr/7978c0c97ea847e78e8849634473c1f1/retentativa/2025-06-12
+
+{
+  "descricao": "Retentativa de cobrança - Academia Fitness"
+}
+
+// Resposta
+
+{
+  "calendario": {
+    "criacao": "2025-06-01T00:05:00Z",
+    "dataDeVencimento": "2025-06-10",
+    "validadeAposVencimento": 30
+  },
+  "txid": "7978c0c97ea847e78e8849634473c1f1",
+  "status": "ATIVA",
+  "valor": {
+    "original": "129.90"
+  },
+  "chave": "71128705000160",
+  "solicitacaoPagador": "Academia Fitness - Mensalidade Junho/2025",
+  "infoAdicionais": [
+    {
+      "nome": "Plano",
+      "valor": "Premium Plus"
+    },
+    {
+      "nome": "Período",
+      "valor": "01/06/2025 a 30/06/2025"
+    }
+  ],
+  "recorrencia": {
+    "idRec": "rec123456789",
+    "ciclo": 1
+  },
+  "retentativa": {
+    "data": "2025-06-12",
+    "status": "AGENDADA",
+    "descricao": "Retentativa de cobrança - Academia Fitness"
+  }
+}
