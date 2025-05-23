@@ -14,6 +14,7 @@
     "numeroTentativas": 3,
     "intervaloEmDias": 2
   },
+  
   "politicaCancelamento": {
     "cancelamentoPeloCliente": true,
     "prazoMaximoAntesDoVencimento": "1d"
