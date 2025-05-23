@@ -1,0 +1,14 @@
+POST https://academia.example.com/api/webhooks/pix-recorrente
+{
+  "evento": "rec",
+  "idRec": "rec123456789",
+  "criacao": "2025-05-22T14:46:00Z",
+  "recorrencia": {
+    "status": "ATIVA",
+    "solicitacao": {
+      "id": "solic987654321",
+      "status": "AUTORIZADA",
+      "criacao": "2025-05-22T14:45:00Z"
+    }
+  }
+}
