@@ -9,7 +9,7 @@
     "valorMinimo": "99.90",
     "valorMaximo": "99.90"
   },
-  "tipoCobranca": "AUTOMATICA",  // ou MANUAL
+  "tipoCobranca": "AUTOMATICA",
   "politicaRetentativa": {
     "numeroTentativas": 3,
     "intervaloEmDias": 2
