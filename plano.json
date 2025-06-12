@@ -3,6 +3,7 @@
   "nome": "Premium Anual",
   "descricao": "Plano anual com acesso ilimitado à academia e aulas coletivas.",
   "periodicidade": "MENSAL",
+  "primeiraCobrança" 10, 
   "duracaoEmMeses": 12,
   "valor": {
     "original": "99.90",
